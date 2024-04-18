@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Magnus Julin.  I am a high school student studying computer science.  I am part of my school's American Rocketry Challenge Team and FTC Robotics Team, as well as several sustainability intiatives.  I love hiking, working on my van, and woodworking.
+
 <!--
 **Yngve135/Yngve135** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
